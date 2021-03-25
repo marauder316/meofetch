@@ -19,6 +19,8 @@ Now, just run ```neofetch``` and see the great wonders that I hath wrought with 
 
 ### Examples of Changes Wrought by my Masterful Skills
 
+#### ```config.conf (1)```
+
 Before 
 
 ```λ ~/meofetch/ main neofetch --ascii_distro regolith```
@@ -75,8 +77,6 @@ cp config.conf ~/.config/neofetch
          -/+++++++++++++++++++++/.
            .:/+++++++++++++++/-`
               `.-:://////:-.
-
 ```
 
-
-### Note: Only the first example has the colourblocks at the very end.
+### ```Note: Only the first example has the colourblocks at the very end.```
